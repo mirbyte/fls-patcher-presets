@@ -1,2 +1,2 @@
-# FLs Patcher presets
-My FL Studio Patcher plugin presets.
+# FL Studio Patcher presets
+## Multiband Stereo Control
