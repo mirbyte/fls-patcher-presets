@@ -8,8 +8,9 @@
 
 
 
+
 ### How to download
-![instr](https://github.com/user-attachments/assets/3edcaa0f-1966-4047-a083-70ddeb837654)
+![instr2](https://github.com/user-attachments/assets/88db25cd-7153-47d4-84d9-ea5b87a44924)
 
 
 
