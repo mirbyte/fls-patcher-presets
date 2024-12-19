@@ -8,7 +8,8 @@
 
 
 
-![instr](https://github.com/user-attachments/assets/498bc9af-9a12-4b36-b408-90f5e8c17e90)
+### How to download
+![instr](https://github.com/user-attachments/assets/7e9c197f-a1a2-47c7-a5bf-f6e5b770785c)
 
 
 
