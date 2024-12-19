@@ -10,7 +10,8 @@
 
 
 ### How to download
-![instr2](https://github.com/user-attachments/assets/88db25cd-7153-47d4-84d9-ea5b87a44924)
+![instr3](https://github.com/user-attachments/assets/6aa06728-105e-4604-be3c-f6cdfa17f4b1)
+
 
 
 
