@@ -1,3 +1,8 @@
+![Size](https://img.shields.io/github/repo-size/mirbyte/fls-patcher-presets?color=orange&label=Size)
+![Created](https://badges.pufler.dev/created/mirbyte/fls-patcher-presets?color=orange)
+![LastCommit](https://img.shields.io/github/last-commit/mirbyte/fls-patcher-presets?color=orange&label=Updated)
+![License](https://img.shields.io/github/license/mirbyte/fls-patcher-presets?color=orange)
+
 # FL Studio Patcher presets
 ## Multiband Stereo Control
 Stereo control tool with linear audio processing.
