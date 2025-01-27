@@ -5,7 +5,7 @@
 
 # FL Studio Patcher presets
 ## Multiband Stereo Control
-Stereo control tool with linear audio processing.
+Stereo control tool with linear audio processing. If the newest version doesn't work, try older.
 
 
 ![gui_pic](https://github.com/user-attachments/assets/e38ddbb5-5bcd-46b8-beda-15ba270852c8)
