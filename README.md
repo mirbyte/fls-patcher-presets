@@ -20,7 +20,3 @@ Stereo control tool with linear audio processing. If the newest version doesn't 
 
 
 
-
-
-### ToDo
-- installer
